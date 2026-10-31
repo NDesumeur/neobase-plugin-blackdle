@@ -1,0 +1,9 @@
+{
+  "pluginId": "neobase.blackdle",
+  "repo": "NDesumeur/neobase-plugin-blackdle",
+  "version": "1.0.1",
+  "sha256": "a99df06fba79a00dffe9f0c2940b56b672c9e3ee29c39d5e70ea84bd66b1be5b",
+  "approvedAt": "2026-10-31T17:51:20.934Z",
+  "neobase": ">=4.0.0",
+  "signature": "73jag0ZuqswmVyB0E4njaa50X9Ip0D4GzVlXXD7qlvolKyY1OnEgwHb2OjqLFKXdQkYJ/2BvI4ijSMj416L0Dg=="
+}
